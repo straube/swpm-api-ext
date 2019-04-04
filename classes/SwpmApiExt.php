@@ -6,7 +6,7 @@
  * Core features.
  *
  * @author  Gustavo Straube <https://github.com/straube>
- * @version 0.1.0
+ * @version 0.1.1
  * @package swpm-api-ext
  */
 class SwpmApiExt
@@ -17,7 +17,7 @@ class SwpmApiExt
      *
      * @var string
      */
-    const VERSION = '0.1.0';
+    const VERSION = '0.1.1';
 
     /**
      * The plugin instance.

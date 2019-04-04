@@ -4,7 +4,7 @@
 Plugin Name: Simple Membership API (Extended)
 Plugin URI:  https://github.com/straube/swpm-api-ext
 Description: This plugin is an add-on for Simple Membership. It extends Simple Membership API add-on with additional API endpoints.
-Version:     0.1.0
+Version:     0.1.1
 Author:      Gustavo Straube (straube.co)
 Author URI:  http://straube.co
 License:     GPLv2 or later
